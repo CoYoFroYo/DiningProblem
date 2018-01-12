@@ -1,2 +1,2 @@
 # DiningProblem
-A solver for the Dining Problem created with Kieron Anthony
+A solver for the Dining Problem created with Kieran Anthony
